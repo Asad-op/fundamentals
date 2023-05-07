@@ -1,0 +1,8 @@
+public class Hello {
+	public static void main(String[] args) {
+		
+	
+System.out.print("HEll WORLD with java\n");
+System.out.print("HEll WORLD with java\n from\n apna college\n");
+System.out.print("HEll WORLD with java\n");
+}}
